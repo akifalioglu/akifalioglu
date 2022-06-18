@@ -1,49 +1,35 @@
-<h1 align="center">Hey there,I'm Mehmet Akif Alioğlu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1>Merhaba, Ben Mehmet Akif Alioğlu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">AI Enthusiast, Open-source Contributor and Life-Long Learner</h3>
-
-## Dynamic Quotes 📜:
-![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
+<h3 >23 Yaşında, yeni teknoloji meraklısı araştırmacı bir Backend Developer</h3>
 
 <br>
-<b> "Sleep😴 To Program Your Subconscious Space"</b>
+<b> "Tesadüf yazılımı önüme çıkarmasaydı, gene aynı şekilde, fakat her şeyden habersiz, yaşayıp gidecektim. Yazılım bana, dünyada başka türlü bir hayatın da mevcut olduğunu, benim bir de ruhum bulunduğunu öğretti. :) "</b>
 
-<img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
-
+<hr>
 <p>
   
-- Computer Science & Engineering - 3rd year @ Mepco Schlenk Engineering College. 🎓
-- Currently working with <a href="https://www.deepsphere.ai/" target="_black">DeepSphere.AI</a> as a Data Science Intern. 🏥
-- Looking for opportunities and collaborations in the field of data science. ✅
-- Seeking opportunities to work in a challenging environments and push my boundaries. 💪
-- Planning to Blog in the near future. 📝
+- Van / Yüzüncü Yıl Üniversitesi Bilgisayar Programcılığı Mezunu (3.82/4.00). 🎓
+- Laravel alanında çalışmalarımı sürdürmekteyim. 🏥
+- İlerideki yapacaklarım listesinde web based bir oyun bulunmakta. ✅
+- Sevdiğin bir işte çalışıyorsan, ömrün boyunca çalışmamış olursun. 💪
+- Hedeflerim her zaman beni ayakta tutuyor. Bulunduğum şirketi en üste çıkarana kadar çalışmaya devam. 📝
 </p>
+<hr>
+<div>
 
-<div align="center">
-
-## **Scan Me**
-<a href="https://avinash-218.github.io/avinash-portfolio-2/"><img src="Images/QR_portfolio.png" width="200" height="200" alt="WebsiteQR"></a>
-</div>
 
 <img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
 
-<h3 align="left">Interests:</h3>
+<h3 align="left">İlgilendiklerim :</h3>
 
-- Data Science 📊
-- Data Structures And Algorithms 💻
-- Database 
-
-<h3 align="left">Languages:</h3>
-
-- English 🔤
-- Tamil
+- Selenium ile scrapping. 📊
+- Curl ve Web api ile botlar yazmak. 💻
+- Veri zaafiyetlerini 👨🏽‍💻
+- Siber güvenlik.👨🏽‍💻
 
 <br><br>
 
-## **Tech Toolbox🧰**<br>
-
-<p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+## **Benim Alet Çantam  🧰**<br>
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
