@@ -1,3 +1,5 @@
+BEGIN:
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <h1>Merhaba, Ben Mehmet Akif Alioğlu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
@@ -129,3 +131,5 @@ aliogluakif@gmail.com adresine mail atabilirsiniz.
   
 <h2 align='center'>Repolarımı yıldızlayarak destek olabilirsiniz ⭐ </h2>
 <br>
+
+END;
