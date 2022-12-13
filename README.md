@@ -7,7 +7,7 @@ BEGIN:
 <h3 >23 Yaşında, yeni teknoloji meraklısı araştırmacı bir Backend Developer</h3>
 
 <br>
-<b> "Tesadüf yazılımı önüme çıkarmasaydı, gene aynı şekilde, fakat her şeyden habersiz, yaşayıp gidecektim. Yazılım bana, dünyada başka türlü bir hayatın da mevcut olduğunu, benim bir de ruhum bulunduğunu öğretti. :) "</b>
+<b> "Tesadüf yazılımı önüme çıkarmasaydı yine aynı şekilde fakat her şeyden habersiz yaşayıp gidecektim.Yazılım; bana dünyada başka türlü bir hayatın da mevcut olduğunu,benim bir de ruhum  bulunduğunu öğretti. "</b>
 
 ## **Sosyal Medya Hesaplarım  🧰**<br>
 
