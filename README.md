@@ -4,7 +4,7 @@ BEGIN:
 
 <h1>Merhaba, Ben Mehmet Akif Alioğlu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 >23 Yaşında, yeni teknoloji meraklısı araştırmacı bir Backend Developer</h3>
+<h3 >24 Yaşında, yeni teknoloji meraklısı araştırmacı bir Backend Developer</h3>
 
 <br>
 <b> "Tesadüf yazılımı önüme çıkarmasaydı yine aynı şekilde fakat her şeyden habersiz yaşayıp gidecektim.Yazılım; bana dünyada başka türlü bir hayatın da mevcut olduğunu,benim bir de ruhum  bulunduğunu öğretti. "</b>
@@ -52,6 +52,7 @@ BEGIN:
 
 
 ## **Sunucu Yönetimi  **<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="64" height="64" />&emsp;&emsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"  width="64" height="64" />&emsp;&emsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="64" height="64" />&emsp;&emsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="64" height="64" />&emsp;&emsp;
@@ -59,9 +60,11 @@ BEGIN:
   <br><br><br><br>
 
 
-## **Veri Tabanları  **<br>
+## **Veri Tabanları & Message Broker & NoSQL  **<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="64" height="64" />&emsp;&emsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="64" height="64" />&emsp;&emsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="64" height="64" />&emsp;&emsp;
+
 <br><br><br><br>
 
 ## **Versiyon Kontrol Sistemleri & Görev Yönetim Araçları  **<br>
@@ -84,13 +87,11 @@ BEGIN:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" width="64" height="64" />&emsp;&emsp;
 <br><br><br><br>
  ## **Hedeflediğim Teknolojiler  **<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="64" height="64" />&emsp;&emsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="64" height="64" />&emsp;&emsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="64" height="64" />&emsp;&emsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="64" height="64" />&emsp;&emsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="64" height="64" />&emsp;&emsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="64" height="64" />&emsp;&emsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="64" height="64" />&emsp;&emsp;
 
   
  
